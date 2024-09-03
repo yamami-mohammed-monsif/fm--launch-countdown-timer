@@ -13,6 +13,8 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 
 ## Demo
 
+https://yamami-mohammed-monsif.github.io/fm--launch-countdown-timer/
+
 ## Description
 
 This is a simple countdown timer built using React. The timer counts down from a specified target date and time, showing the remaining days, hours, minutes, and seconds until the target is reached.
@@ -30,6 +32,30 @@ This is a simple countdown timer built using React. The timer counts down from a
 - CSS: For styling the components and layout.
 
 ## Installation
+
+1- Clone the repository:
+
+```bash
+git clone https://github.com/yamami-mohammed-monsif/fm--launch-countdown-timer.git
+```
+
+2- Navigate into the project directory:
+
+```bash
+cd launch-countdown-timer
+```
+
+3- Install the dependencies:
+
+```bash
+npm install
+```
+
+4- Start the development server:
+
+```bash
+npm run dev
+```
 
 ## Usage
 
