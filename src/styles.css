@@ -69,6 +69,7 @@ h1 {
 .timer {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .card {
